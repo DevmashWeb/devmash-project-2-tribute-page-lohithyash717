@@ -1,0 +1,23 @@
+
+#outer{
+	width: 57.5%;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: cadetblue;
+}
+body 
+{
+	background-color: aliceblue ;
+}
+h1{
+	
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+	}
+	h2{
+		font-family:cursive;
+	}
+	
